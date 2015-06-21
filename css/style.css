@@ -116,7 +116,7 @@ a:hover {
   text-transform:uppercase;
 }
 .navbar-inverse .navbar-nav li a {
-  color: #666;
+  color: #666 !important;
   font-size: 14px;
   text-transform: uppercase;
   padding: 30px 20px;

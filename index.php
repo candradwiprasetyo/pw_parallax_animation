@@ -61,7 +61,7 @@
    
 	include 'index/about.php'; 
 	
-	include 'index/timeline.php';
+	//include 'index/timeline.php';
 	
 	include 'index/skill_bar.php';
 	

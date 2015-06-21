@@ -23,13 +23,13 @@
         -->
 
 
-           <div class="col-md-4 col-md-offset-4 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
+           <div class="col-md-6 col-md-offset-3 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
            <br />
             <br />
              <br />
-           <p>
-          Hi, My Name is <b>Candra D Prasetyo</b> . I am a PROGRAMMER
-					based in Surabaya, East Java, Indonesia.<br>
+           
+          <span style="font-size:24px;">Hi, My Name is <b>Candra D Prasetyo</b></span><br><br><p>I am a PROGRAMMER
+					based in Surabaya, East Java, Indonesia.
 					My skills are web design, web programming and desktop programming. I've designed websites for small businesses, company profile, personal website, nonprofits, more.
            </p>
            </div>	
