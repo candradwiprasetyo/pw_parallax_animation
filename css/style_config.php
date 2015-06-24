@@ -112,14 +112,14 @@ a:hover {
 /*        09 - portfolio Elements
 /*==========================================*/
 .portfolio .portfoliofilter a .filterbutton {
-  color: #999;
+  color: #cd9448;
 }
 .portfolio .portfoliofilter a.current .filterbutton {
-  background: #f3c07c;
-  border: 1px solid #f3c07c;
+  background: #dea65c;
+  border: 1px solid #dea65c;
 }
 .portfolio .portfoliofilter a:hover .filterbutton {
-  border: 1px solid #f3c07c;
+  border: 1px solid #dea65c;
 }
 .portfolio .portfoliocontent .content .overlay:hover {
   background: rgba(147, 190, 76, 0.8);
@@ -236,7 +236,7 @@ a:hover {
 
 .progress {
   width: 100%;
-  height: 50px;
+  height: 30px;
 }
 
 .progress-wrap1, .progress-wrap2, .progress-wrap3, .progress-wrap4, .progress-wrap5, .progress-wrap6 {
@@ -244,11 +244,11 @@ a:hover {
   color:#fff;
   text-align: left !important;
   font-weight: bold;
-  padding-top: 10px;
+  padding-top: 5px;
   padding-left:10px;
   overflow: hidden;
   position: relative;
-  font-size:20px;
+  font-size:14px;
 }
 
 
@@ -261,7 +261,7 @@ a:hover {
 }
 
 .skill_title{
-	text-shadow: 0pt 1px 1px #ffffff;
+	
 	margin-bottom:5px;
 	font-weight: 500;
 }
@@ -498,10 +498,10 @@ figure.effect-zoe figcaption {
 .about_button{
 	background-color:#fff;
 	text-shadow:none;
-	color:#eb7b5d;
+	color:#d84444;
 }
 .about_button:hover{
-	background:#eb7b5d;
+	background:#d84444;
 	color: #fff;
 }
 
