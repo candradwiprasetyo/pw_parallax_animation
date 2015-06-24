@@ -1,7 +1,8 @@
 
 <!--<div id="about_page"></div>-->
-    <section class="about" id="about" style="padding-bottom:0px !important">
-      <div class="container">
+    <section class="about" id="about">
+      <div class="background_about">
+      <div class="container" >
         <div class="row">
 
 <div id="clock_frame">
@@ -27,11 +28,12 @@
            <br />
             <br />
              <br />
-           
-          <span style="font-size:24px;">Hi, My Name is <b>Candra D Prasetyo</b></span><br><br><p>I am a PROGRAMMER
+           <span style="color:#fff;">
+          <span style="font-size:24px;" >Hi, My Name is <b>Candra D Prasetyo</b></span><br><br><p>I am a PROGRAMMER
 					based in Surabaya, East Java, Indonesia.
 					My skills are web design, web programming and desktop programming. I've designed websites for small businesses, company profile, personal website, nonprofits, more.
            </p>
+         </span>
            </div>	
            <div class="col-md-12 title text-center " data-wow-delay="0.1s">
            <div class="buttons">
@@ -44,6 +46,7 @@
          
         </div><!-- /.row -->
       </div><!-- /.container -->
+   </div>
     </section><!-- /.features -->
     <!-- about section END -->
   

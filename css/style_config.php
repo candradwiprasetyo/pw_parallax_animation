@@ -112,15 +112,14 @@ a:hover {
 /*        09 - portfolio Elements
 /*==========================================*/
 .portfolio .portfoliofilter a .filterbutton {
-  color: #888888;
+  color: #999;
 }
 .portfolio .portfoliofilter a.current .filterbutton {
-  background: <?= $bg_color ?>;
-  border: 1px solid <?= $bg_color ?>;
+  background: #f3c07c;
+  border: 1px solid #f3c07c;
 }
 .portfolio .portfoliofilter a:hover .filterbutton {
-  border: 1px solid <?= $bg_color ?>;
-  color: <?= $bg_color ?>;
+  border: 1px solid #f3c07c;
 }
 .portfolio .portfoliocontent .content .overlay:hover {
   background: rgba(147, 190, 76, 0.8);
@@ -497,11 +496,13 @@ figure.effect-zoe figcaption {
 }
 
 .about_button{
-	background-color:<?= $bg_color ?>;
+	background-color:#fff;
 	text-shadow:none;
+	color:#eb7b5d;
 }
 .about_button:hover{
-	background:#fff;
+	background:#eb7b5d;
+	color: #fff;
 }
 
 </style>

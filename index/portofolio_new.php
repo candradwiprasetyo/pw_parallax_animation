@@ -1,5 +1,6 @@
 
  <section class="portfolio" id="portfolio">
+ 	 <div class="background_portfolio">
       <div class="title text-center wow animated fadeInRight"><h1>My Latest <strong>Work</strong></h1></div>
       
       <div class="title text-center wow animated fadeInDown">
@@ -86,5 +87,6 @@
 			</div>
         </div>
             </div>
+        </div>
             </section>
             <div style="clear:both;"></div>

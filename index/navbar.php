@@ -20,6 +20,7 @@
           <ul class="nav navbar-nav navbar-right">
           <li ><a href="#home">Home</a></li>
             <li><a href="#about">About Me</a></li>
+            <li><a href="#skill_bar">Skill</a></li>
             <li><a href="#portfolio">My Latest Work</a></li>
             <li><a href="#pricing">Pricing</a></li>
             <li><a href="#contact">Contact</a></li>
