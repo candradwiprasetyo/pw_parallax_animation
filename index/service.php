@@ -21,12 +21,12 @@
               </div>
               </div>
                           
-              <div class="col-md-6 text wow animated fadeInRight">
+              <div class="col-md-6">
              
 
                <div class="row">
 
-              <div class="col-md-6 text wow animated fadeInLeft">
+              <div class="col-md-6 text wow animated fadeInDown">
               <div class="item_frame">
                 <section>
                   <div class="skill_title">PHP</div>
@@ -40,7 +40,7 @@
               </div>
               </div>
                           
-                          <div class="col-md-6 text wow animated fadeInRight">
+                          <div class="col-md-6 text wow animated fadeInUp">
               <div class="item_frame">
                 <section>
                   <div class="skill_title">MySQL</div>
@@ -54,7 +54,7 @@
               </div>
               </div>
 
-              <div class="col-md-6 text wow animated fadeInLeft">
+              <div class="col-md-6 text wow animated fadeInDown">
               <div class="item_frame">
                 <section>
                   <div class="skill_title">jQuery</div>
@@ -68,7 +68,7 @@
               </div>
               </div>
 
-              <div class="col-md-6 text wow animated fadeInRight">
+              <div class="col-md-6 text wow animated fadeInUp">
               <div class="item_frame">
                 <section>
                   <div class="skill_title">HTML5</div>
@@ -82,7 +82,7 @@
               </div>
               </div>
 
-              <div class="col-md-6 text wow animated fadeInLeft">
+              <div class="col-md-6 text wow animated fadeInDown">
               <div class="item_frame">
                 <section>
                   <div class="skill_title">Graphic Design</div>
@@ -96,7 +96,7 @@
               </div>
               </div>
                           
-                         <div class="col-md-6 text wow animated fadeInRight">
+                         <div class="col-md-6 text wow animated fadeInUp">
               <div class="item_frame">
                 <section>
                   <div class="skill_title">CSS3</div>

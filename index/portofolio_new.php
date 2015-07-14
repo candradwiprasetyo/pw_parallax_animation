@@ -1,10 +1,11 @@
 
  <section class="portfolio" id="portfolio">
  	 <div class="background_portfolio">
-      <div class="title text-center wow animated fadeInRight"><h1>My Latest <strong>Work</strong></h1></div>
+      <div class="title text-center wow animated fadeInUp"><h1>My Latest <strong>Work</strong></h1></div>
       
-      <div class="title text-center wow animated fadeInDown">
+      <div class="title text-center wow animated fadeInUp">
       <div class="container">
+      	
         <div class="portfoliofilter">
           <a href="javascript:void(0)" data-filter="*" class="current" style="outline:none;">
             <div class="def-btn filterbutton">All Categories</div>
@@ -24,7 +25,7 @@
       </div>
 
       
-      <div class="title text-center wow animated fadeInLeft">
+      <div class="title text-center wow animated fadeInUp">
    
 <div class="grid"> <div class="portfoliocontent">
 				<?php

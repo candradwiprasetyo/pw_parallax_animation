@@ -9,7 +9,7 @@
   <ul id="clock"> 
       <li id="sec"></li>
       <li id="hour"></li>
-    <li id="min"></li>
+      <li id="min"></li>
   </ul>
 </div>
           <!--
@@ -24,7 +24,7 @@
         -->
 
 
-           <div class="col-md-6 col-md-offset-3 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
+           <div class="col-md-6 col-md-offset-3 title text-center wow animated fadeInUp" data-wow-delay="0.1s" style="margin-top:-200px">
            <br />
             <br />
              <br />

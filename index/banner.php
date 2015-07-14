@@ -1,13 +1,24 @@
 <!-- banner section BEGIN -->
 
 <div class="navbar-inverse_new"></div>
+
     <section class="banner" id="home">
       <div class="overlay"></div>
+
       <div class="banner-content">
+
+        
         <div class="container">
+          <div class="home_img">
+
+          </div>
+
           <div class="col-md-12">
 
-
+            <div class="tooltip tooltip-west">
+              <span class="tooltip-item"></span>
+              <span class="tooltip-content"><div class="face_inhouse"></div>Welcome to my house :) <br> <a href="#"><div class="button_inhouse">Klik to ENTER</div></a></span>
+            </div>
             <!--
             <div class="title">
             	<div class="icon_logo"></div>
@@ -25,6 +36,8 @@ I'm a Web Programmer & UI Designer based in Surabaya, East Java, Indonesia. <br>
               <a href="#about_page" class="def-btn"><strong>Know Me Better</strong></a>
             </div>
             -->
+
+            
           
             
           </div>

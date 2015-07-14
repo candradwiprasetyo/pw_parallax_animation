@@ -45,6 +45,10 @@
    
    	<!-- sweet alert-->
     <link rel="stylesheet" type="text/css" href="css/alert/sweet-alert.css">
+
+    <!-- tooltip -->
+    <link rel="stylesheet" type="text/css" href="css/tooltip/tooltip-curved.css" />
+
     <?php
     include 'css/style_config.php';
 	?>
