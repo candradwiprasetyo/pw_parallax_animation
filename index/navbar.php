@@ -14,7 +14,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#"><div class="logo_new"></div><strong>Melon</strong> Dev</a>
+          <a class="navbar-brand" href="#"><div class="logo_new"></div><strong>Candra</strong> D Prasetyo</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
@@ -22,7 +22,7 @@
             <li><a href="#about">About Me</a></li>
             <li><a href="#service">Skill</a></li>
             <li><a href="#portfolio">My Latest Work</a></li>
-            <li><a href="#pricing">Pricing</a></li>
+            <!--<li><a href="#pricing">Pricing</a></li>-->
             <li><a href="#contact">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->

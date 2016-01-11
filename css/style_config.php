@@ -200,7 +200,7 @@ a:hover {
 /*       18 - Footer Elements
 /*==========================================*/
 .footer {
-  background-color: <?= $bg_color ?>;
+  background-color: #829db0;
 }
 .footer .right .social-icons .circle:hover .fa {
   color: #fff;

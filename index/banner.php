@@ -9,10 +9,10 @@
 
         
         <div class="container">
-          <div class="home_img">
+          <!--<div class="home_img">
 
           </div>
-
+          -->
           <div class="col-md-12">
 
             <div class="tooltip tooltip-west">

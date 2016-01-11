@@ -24,10 +24,9 @@
         -->
 
 
-           <div class="col-md-6 col-md-offset-3 title text-center wow animated fadeInUp" data-wow-delay="0.1s" style="margin-top:-200px">
+           <div class="col-md-6 col-md-offset-3 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
            <br />
             <br />
-             <br />
            <span style="color:#fff;">
           <span style="font-size:24px;" >Hi, My Name is <b>Candra D Prasetyo</b></span><br><br><p>I am a PROGRAMMER
 					based in Surabaya, East Java, Indonesia.
@@ -35,10 +34,18 @@
            </p>
          </span>
            </div>	
-           <div class="col-md-12 title text-center " data-wow-delay="0.1s">
+           <div class="col-md-6 col-md-offset-3 title text-center " data-wow-delay="0.1s">
            <div class="buttons">
-              <a href="#about" class="def-btn about_button wow animated fadeInLeft"><strong>Download My CV</strong></a>
-               <a href="#timeline_page" class="def-btn about_button wow animated fadeInRight"><strong>Know Me Better</strong></a>
+              <div class="form-group">
+                <div class="col-md-6">
+                  <a href="#about" class="def-btn about_button wow animated fadeInLeft"><strong>Download My CV</strong></a>
+                </div>
+              </div>
+                 <div class="form-group">
+                  <div class="col-md-6">
+                    <a href="#timeline_page" class="def-btn about_button wow animated fadeInRight"><strong>Know Me Better</strong></a>
+                  </div>
+              </div>
             </div>
             </div>
           

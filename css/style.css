@@ -167,7 +167,7 @@ a:hover {
   position: relative;
   display: table;
   z-index: 1;
-  background:url(../images/halaman.png) center no-repeat;
+  background:url(../images/home2.png) center no-repeat;
 
 }
 
@@ -311,11 +311,10 @@ a:hover {
 
 .about {
   
-  min-height: 768px;
-  width: 100%;
   z-index: 1;
   background:url(../images/bg-noise.png) #f97d5b;
   /*background-size: cover;*/
+
   
 }
 .about .background_about{
@@ -806,7 +805,20 @@ a:hover {
 /*        11 - Pricing Elements
 /*==========================================*/
 .pricing {
-  padding: 30px 0px;
+  padding: 0px 0px;
+  width: 100%;
+  z-index: 1;
+  background:url(../images/bg-noise.png) #f5f2c7;
+}
+.pricing .background_pricing{
+  min-height: 768px;
+  height: 768px;
+  width: 100%;
+  position: relative;
+  display: table;
+  z-index: 1;
+  background:url(../images/kitchen.png) no-repeat top;
+  
 }
 .pricing .title h1 {
   margin-bottom: 30px;
@@ -1091,19 +1103,68 @@ a:hover {
 /*==========================================*/
 /*        17 - contact Elements
 /*==========================================*/
+
 .contact {
-  padding: 30px 0px;
-  text-shadow: 0pt 1px 1px #ffffff;
+  padding: 0px 0px;
+  padding-top: 30px;
+  background:url(../images/bg-noise.png) #a3cbc2;
+  color: #fff;
+  /*background-size: cover;*/
+  
 }
+.contact .background_contact{
+  min-height: 768px;
+  height: 768px;
+  width: 100%;
+  position: relative;
+  display: table;
+  z-index: 1;
+  background:url(../images/bathroom.png) no-repeat top;
+  
+}
+
+@media all and (max-width : 1000px) {
+  .contact .background_contact{
+    background: none;
+  }
+
+  .pricing .background_pricing{
+    min-height: 400px;
+    height: 400px;
+    background: none;
+    min-height:100%;
+    height: 100%;
+    padding-bottom: 40px;
+  }
+
+  .service .background_service{
+    background: none;
+  }
+
+  .about .background_about{
+    min-height: 400px;
+    height: 400px;
+    background: none;
+    min-height:100%;
+    height: 100%;
+    padding-bottom: 40px;
+  }
+
+  #clock_frame {
+    visibility: hidden;
+  }
+}
+
+
 .contact .title h1 {
   margin-bottom: 30px;
-  color:#777;
+  color:#fff;
 }
 .contact .description {
   text-align: center;
-  width: 70%;
+  width: 100%;
   margin: 0 auto;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
   line-height: 25px;
 }
 .contact .form-title h3 {
@@ -1115,6 +1176,7 @@ a:hover {
   padding-right: 0px;
   margin-bottom: 15px;
   color:#999 !important;
+  padding-top: 20px;
 }
 .contact .footer-form .input-container .form-control {
   border: 1px solid #dddddd;
@@ -1154,6 +1216,7 @@ a:hover {
   width: 100%;
   font-size: 16px;
   margin-bottom:50px;
+  border: none;
 }
 .contact .footer-form .button-container .def-btn:hover {
   
@@ -1363,13 +1426,13 @@ a:hover {
 
 .cloud {
   background: #fff;
-  width: 90px;
-  height: 42px; 
+  width: 40px;
+  height: 32px; 
   -webkit-animation: clouds 40s infinite;
   margin-left: 0;
   display: block;
   position: absolute;
-  z-index: 9999;
+  z-index: 1;
   
 }
 
@@ -1381,20 +1444,23 @@ a:hover {
                  60px 10px 0 8px #fff;
     content: "";
     position: absolute;
-    width: 48px;
-    height: 48px;
+    width: 38px;
+    height: 38px;
     left: -22px;
     bottom: 0;
     background: #fff;
 }
 
 .cloud:nth-child(1){ top: auto; top: 100px; opacity: 0.85; 
--webkit-animation: clouds 60s infinite; }
-.cloud:nth-child(2){ right: auto; left: 600px; top:200px; opacity: 0.75}
-.cloud:nth-child(3){ bottom: auto; top: 0px; right: auto; left: 900px; top:150px; opacity: 0.5;
--webkit-animation: clouds2 30s infinite;
+-webkit-animation: clouds 100s infinite; }
+.cloud:nth-child(2){ right: auto; left: 800px; top:100px; opacity: 0.75;
+-webkit-animation: clouds 40s infinite; }
+.cloud:nth-child(3){ bottom: auto; top: 0px; right: auto; left: 1300px; top:150px; opacity: 0.5;
+-webkit-animation: clouds2 60s infinite;
 }
-.cloud:nth-child(4){ bottom: auto; top: 120px; right: auto; left: 320px; opacity: 0.65;}
+.cloud:nth-child(4){ bottom: auto; top: 120px; right: auto; left: 320px; opacity: 0.65;
+-webkit-animation: clouds 80s infinite;
+}
 
 @-webkit-keyframes clouds /*Safari and Chrome*/ {
 0 {margin-left:0;}
@@ -1438,7 +1504,7 @@ a:hover {
   color: #fff;
   text-align: center;
   width: 150px;
-  font-size: 16px;
+  font-size: 0.8em;
   margin-left: auto;
   margin-right: auto;
   font-family: 'arial';

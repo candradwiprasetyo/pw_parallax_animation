@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Melon Development">
     <link rel="icon" href="assets/images/favicon.png">
-    <title>Melon Development</title>
+    <title>Candra D Prasetyo</title>
 
       <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -77,9 +77,9 @@
    
 	include 'index/testimonial.php'; 
 	
-	//include 'index/map.php';
+	include 'index/map.php';
 	
-	include 'index/update.php'; 
+	//include 'index/update.php'; 
 	
 	include 'index/contact.php'; 
 	

@@ -1,4 +1,4 @@
-<div id="update_page"></div>    <!-- testimonial section BEGIN-->
+   <!-- testimonial section BEGIN-->
     <section class="testimonial text-center" id="testimonial">
       <div class="overlay"></div>
       
